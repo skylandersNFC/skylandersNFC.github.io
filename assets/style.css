@@ -1,5 +1,5 @@
 html {
-	height:99%;
+	height:100%;
 }
 
 body {
@@ -33,4 +33,5 @@ label {
 a {
 	color: #000;
 	text-decoration: none;
+	display: inline-block;
 }
