@@ -1,7 +1,7 @@
 # Skylanders: The Crypt
 
-# [![The Crypt](https://i.ibb.co/TwKjdpt/image.png)]([https://www.google.com](https://skylandersnfc.github.io/))
-
+# [<img src="https://i.ibb.co/TwKjdpt/image.png">](https://skylandersnfc.github.io/)
+ 
 # SkyKeys Generator (Generate A Keys for Skylanders)
 
 This page can be used to generate A keys for Skylander figures using their UID.
