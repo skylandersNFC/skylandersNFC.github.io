@@ -1,5 +1,4 @@
 # Portal: https://skylandersnfc.github.io/
-
 ----------------------------------------
 # SkyKeys Generator (Generate A Keys for Skylanders)
 
