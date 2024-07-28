@@ -1,5 +1,7 @@
-# The Crypt: https://skylandersnfc.github.io/
-----------------------------------------
+# Skylanders: The Crypt
+
+# [![The Crypt](https://i.ibb.co/TwKjdpt/image.png)]([https://www.google.com](https://skylandersnfc.github.io/))
+
 # SkyKeys Generator (Generate A Keys for Skylanders)
 
 This page can be used to generate A keys for Skylander figures using their UID.
@@ -7,7 +9,7 @@ This page can be used to generate A keys for Skylander figures using their UID.
 #### Refactored version : https://skylandersnfc.github.io/projects/SkyKeys-Generator/
 
 #### Original version: https://marijnkneppers.dev/skylanders/keygen/
-----------------------------------------
+
 # SkyKeys Injector (Inject A Keys for Skylanders)
 
 This page will convert any .bin and .dmp skylanders nfc files without A keys (usually from the Skylanders GUI Tool) to a proper dumps with A keys included.
