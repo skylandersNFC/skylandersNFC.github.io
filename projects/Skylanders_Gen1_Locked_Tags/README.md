@@ -1,4 +1,4 @@
-# » Writing **Gen 0** or **UID LOCKED Tags** Skylander Tags Using Android Phones & a PC.
+# » Writing **Gen 1 UID LOCKED** Skylander Tags Using Android Phones
 
 ## » Getting TheSkyLib Ready [PC]
 ### [You have to do this for every tag you want to write]
