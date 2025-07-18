@@ -2,4 +2,8 @@
 
 A skylanders figure editor.
 
-# [<img src="https://raw.githubusercontent.com/skylandersNFC/skylandersNFC.github.io/refs/heads/main/SkyTools/assets/Runes.jpg">](https://github.com/NefariousTechSupport/Runes)
+---
+
+1. Download the latest version of the ZIP archive from here: **[Releases](https://github.com/NefariousTechSupport/Runes/releases/tag/v1.0.2)**
+2. Extract the archive.
+3. 
