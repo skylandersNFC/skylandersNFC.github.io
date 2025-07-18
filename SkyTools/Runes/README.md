@@ -3,6 +3,7 @@
 A Skylanders dumps GUI editor.
 
 [![Runes](Runes.jpg)](https://github.com/NefariousTechSupport/Runes/releases)
+
 ---
 
 1. Download the latest version of the ZIP archive from **[here](https://github.com/NefariousTechSupport/Runes/releases)**.
