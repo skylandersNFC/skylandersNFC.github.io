@@ -1,4 +1,4 @@
-# [Riches](https://github.com/Texthead1/Riches)
+# [Riches](https://github.com/Texthead1/Riches) (Texthead)
 
 A simple application to max out the gold of Skylanders figures.
 

@@ -1,4 +1,4 @@
-# [Runes](https://github.com/NefariousTechSupport/Runes)
+# [Runes](https://github.com/NefariousTechSupport/Runes) (NefariousTechSupport)
 
 A skylanders figure editor.
 
