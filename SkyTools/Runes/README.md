@@ -22,3 +22,5 @@ A Skylanders dumps GUI editor.
    - For example, if you were editing `Bash.dump`, you might name the modified version `Bash_Enhanced.dump` - or whatever you prefer.
 10. That’s it!  
     - Write the modified dump to your NFC tag or use it directly in an emulator.
+   
+   ---
