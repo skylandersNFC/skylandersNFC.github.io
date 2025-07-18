@@ -1,7 +1,8 @@
 # [Runes](https://github.com/NefariousTechSupport/Runes) (NefariousTechSupport)
 
-A Skylanders figure editor.
+A Skylanders dumps GUI editor.
 
+![Runes](Runes.jpg)
 ---
 
 1. Download the latest version of the ZIP archive from **[here](https://github.com/NefariousTechSupport/Runes/releases)**.
