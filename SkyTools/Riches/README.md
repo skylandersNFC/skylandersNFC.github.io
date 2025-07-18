@@ -2,7 +2,7 @@
 
 A simple application to max out the gold of Skylanders figures.
 
-![Riches](Riches.jpg)
+[![Riches](Riches.jpg)](https://github.com/Texthead1/Riches/releases/)
 ---
 
 1. Download the latest ZIP release from **[here](https://github.com/Texthead1/Riches/releases/)**.
