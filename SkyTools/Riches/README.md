@@ -27,3 +27,5 @@ A simple application to max out the gold of Skylanders figures.
 11. If the driver switch to `libusbK` was successful, start `Riches.exe`.
 12. When you see the prompt `Please place a Skylander on the Portal of Power`, do just that.  
     - The Skylander will instantly receive **65535** gold.
+
+---
